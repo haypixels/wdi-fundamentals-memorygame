@@ -2,7 +2,7 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   font-family:"Raleway", sans-serif;
-  color:#F15B31;
+  color:#FFFFFF;
   letter-spacing: 1px;
   font-weight:600;
   font-size:18px;
@@ -11,7 +11,7 @@ a {
 
 h1{
   font-family:"Raleway", sans-serif;
-  color:#0D2C40;
+  color:#FFFFFF;
   letter-spacing:1px;
   font-weight:400;
   font-size:45px;
@@ -66,4 +66,8 @@ footer{
   font-size: 14px;
   letter-spacing: .08em;
   font-weight: 500;
+}
+
+.name{
+  color:#F15B31;
 }
